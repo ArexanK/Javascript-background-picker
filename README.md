@@ -1,1 +1,1 @@
-# Javascript-backgroundpicker
+# Javascript-mini-practice-projects
