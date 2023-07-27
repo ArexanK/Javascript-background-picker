@@ -12,7 +12,8 @@ document.getElementById('red').onclick = partyRed
 
 
 // write instructions to make the elements above work (functions)
-//document.querySelector('body') = go back to document(htm&css) and find(querySelector) the body(HTML page) style.backgroundcolor= give it a background color. 
+//document.querySelector('body') = go back to document(htm&css) and find(querySelector) the body(HTML page)
+// style.backgroundcolor= give it a background color. 
 // same above but find(querySelector) in the body(HTML page ) and style.color= make font white
 function partyPurple() {
     document.querySelector('body').style.backgroundColor = 'rgba(241, 63, 247, 1)' //color purple background
